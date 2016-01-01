@@ -1,0 +1,11 @@
+# Ignore PSoC Creator temp and user files
+
+# Ignore User Workspace
+*.cywrk.Xwx47
+
+# Project optional files
+ADC_EoS.cydsn/codegentemp/
+ADC_EoS.cydsn/Generated_Source/
+ADC_EoS.cydsn/Export/
+ADC_EoS.cydsn/CortexM3/
+ADC_EoS.cydsn/*.cyprj.Xwx47
